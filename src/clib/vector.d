@@ -1,6 +1,3 @@
-// SPDX-FileCopyrightText: (C) 2023 Alisa Lain <al1-ce@null.net>
-// SPDX-License-Identifier: OSL-3.0
-
 /++
 noGC compatible dynamic size container.
 
